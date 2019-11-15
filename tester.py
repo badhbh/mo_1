@@ -7,4 +7,4 @@ print(dichotomy_method(-100, 100, input_func, 0.0001))
 
 print(gold_method_min(-100, 100, input_func, 0.0001))
 
-find_func_min(-99, input_func, 0.0001)
+find_func_min(2, input_func, 0.01)

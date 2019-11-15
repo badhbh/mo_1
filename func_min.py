@@ -13,7 +13,7 @@ def find_func_min(x0, func, beta):
         if(func(x0) > func(x1)):
             x0 = x1
         else:
-            print(x0, x1)
+            print("min:" , x0)
             break 
 
 
